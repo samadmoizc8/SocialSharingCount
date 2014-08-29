@@ -9,6 +9,8 @@ Social Sharing Count for WordPress
 
 **Download:** [Download](https://github.com/aligoren/SocialSharingCount/archive/master.zip)
 
+**Supported Social Sites:** Facebook, Twitter, Google+, Linkedin, Delicious, Stumbleupon, Pinterest
+
 ###Usage:
 
 Use [social] shortcode posts, page or sidebar widget (text)
